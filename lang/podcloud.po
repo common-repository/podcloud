@@ -1,0 +1,107 @@
+# Translation of Plugins - podCloud - Stable Readme (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - podCloud - Stable Readme (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - podCloud - Stable Readme (latest release)\n"
+
+#. Short description.
+#, gp-priority: high
+msgid "This plugins allow embedding of the podCloud player by pasting a podcast or episode URL into editor."
+msgstr ""
+
+#. Plugin name.
+#, gp-priority: high
+msgid "podCloud"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>https://podcloud.fr/users/*/playlists/*</code>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>https://pdca.st/*</code>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>http://pdca.st/*</code>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>https://*.lepodcast.fr/*</code>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>http://*.lepodcast.fr/*</code>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>https://podcloud.fr/podcast/*</code>"
+msgstr ""
+
+#. Found in faq list item.
+msgid "<code>http://podcloud.fr/podcast/*</code>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "You can <a href=\"https://podcloud.fr/contact\">contact us</a> or join our <a href=\"http://podcloud.fr/discord\">Discord community</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Paste the podCloud link and WordPress will auto embed it."
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I find help ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What link format is accepted ?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How to add a podCloud player ?"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This plugins allow embedding of the podCloud player by pasting a podcast or episode URL into editor. It also adds the script required for the magic resizing of the player."
+msgstr ""
+
+#. Screenshot description.
+msgid "This is a podCloud player automatically resized in a post"
+msgstr ""
+
+#. Screenshot description.
+msgid "This is a podCloud player in the WordPress editor"
+msgstr ""
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Add podCloud playlists"
+msgstr ""
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Update for WordPress 6.0"
+msgstr ""
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Playlist support"
+msgstr ""
+
+#. Found in changelog list item.
+#, gp-priority: low
+msgid "Add Gutenberg block"
+msgstr ""
+
+#. Found in changelog paragraph.
+#, gp-priority: low
+msgid "First version"
+msgstr ""
